@@ -1,4 +1,4 @@
-리액트를 활용한 쇼핑몰
+react-prototype-shop
 
 -기본디자인 구현<br>
 -상품리스트 보여주기<br>
