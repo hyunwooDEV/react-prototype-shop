@@ -1,4 +1,4 @@
-react-prototype-shop
+<h2>react-prototype-shop</h2>
 
 -기본디자인 구현<br>
 -상품리스트 보여주기<br>
